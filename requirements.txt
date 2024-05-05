@@ -1,0 +1,7 @@
+pip == 23.2.1
+matplotlib==3.8.3
+pandas==2.2.1
+streamlit==1.32.2
+pydeck ==0.8.1b0
+PIL == 10.3.0
+pillow == 10.3.0
